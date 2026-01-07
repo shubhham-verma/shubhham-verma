@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I’m Shubham 👋
 
-<!--
-**shubhham-verma/shubhham-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Full-Stack (MERN) | Quality-Driven Developer**
 
-Here are some ideas to get you started:
+I build scalable web applications with a strong focus on performance, reliability, and clean architecture.  
+My background spans **full-stack development** and **backend + API testing**, which helps me ship features that work *and* stay stable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech I work with
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, MongoDB, MySQL  
+- **Mobile:** React Native  
+- **Cloud & Tools:** Firebase, Cloudflare R2, Git, Postman  
+- **Testing:** API testing, SQL validation, white-box testing
+
+###  Featured Projects
+- **[TetherRead AI](https://tether-read.vercel.app/)** – Cross-platform EPUB reader with sync, caching & AI-powered recommendations  
+- **[ColorCommits](https://color-commits.netlify.app/)** – GitHub repo visualizer with commit-age analysis & smart caching  
+- **[NewsRoom 24/7](https://newsroom-24-7.netlify.app/)** – Real-time news aggregator built with React
+
+###  What I care about
+- Writing **maintainable, testable code**
+- Optimizing **performance & UX**
+- Bridging the gap between **development and quality**
+
+📫 **Reach me:**  
+[LinkedIn](https://linkedin.com/in/shubham-verma-376414220) · verma.shubham1607@gmail.com
+
+<!--[Portfolio](https://tether-read.vercel.app)
