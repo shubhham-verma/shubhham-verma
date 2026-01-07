@@ -1,4 +1,4 @@
-# Hi, I’m Shubham 👋
+# Hi, I’m Shubham 
 
 **Software Engineer | Full-Stack (MERN) | Quality-Driven Developer**
 
@@ -22,7 +22,7 @@ My background spans **full-stack development** and **backend + API testing**, wh
 - Optimizing **performance & UX**
 - Bridging the gap between **development and quality**
 
-📫 **Reach me:**  
+ **Reach me:**  
 [LinkedIn](https://linkedin.com/in/shubham-verma-376414220) · verma.shubham1607@gmail.com
 
 <!--[Portfolio](https://tether-read.vercel.app)
