@@ -23,6 +23,5 @@ My background spans **full-stack development** and **backend + API testing**, wh
 - Bridging the gap between **development and quality**
 
  **Reach me:**  
-[LinkedIn](https://linkedin.com/in/shubham-verma-376414220) · verma.shubham1607@gmail.com
+[LinkedIn](https://linkedin.com/in/shubham-verma-376414220) · [Portfolio](https://shubhham-verma.vercel.app/) · [Resume](https://raw.githubusercontent.com/shubhham-verma/resume/main/Resume%20Shubham%20Verma.pdf) · verma.shubham1607@gmail.com 
 
-<!--[Portfolio](https://tether-read.vercel.app)
